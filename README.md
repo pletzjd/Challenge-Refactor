@@ -18,9 +18,9 @@ The live deployement of the updated site can be found at: https://pletzjd.github
 The projects final product is a webpage with the primary purpose of providing information to perspective clients. The functionalitie(s) of the page is a navigation bar in the header with links to boxes further down on the page describing the services offered by this company.
 
 
-!["Nav bar=Search Engine Optimization:Red, Online Reputation Management:Orange, Social Media Marketing:yellow"](assets/Images/Nav.png)
+!["Nav bar=Search Engine Optimization :Red, Online Reputation Management: Orange, Social Media Marketing: Yellow"](assets/Images/Nav.jpg)
 
-!["Content=Search Engine Optimization:Red, Online Reputation Management:Orange, Social Media Marketing:yellow"](assets/Images/Content.png)
+!["Content=Search Engine Optimization: Red, Online Reputation Management: Orange, Social Media Marketing: Yellow"](assets/Images/Content.jpg)
 
 ## Credits
 
