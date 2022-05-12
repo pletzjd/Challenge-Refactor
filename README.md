@@ -8,6 +8,7 @@ The main goal of this project was to reformat the html file to make it more acce
 - Reoraginizing the CSS file by type of selector and alphabetically.
 - Fixing a broken link in the navigation bar at the top of the page.
 - Adding comments to better communicate the function of the CSS selectors.
+- Consolodated terms in the CSS style page
 
 ## Live Deployement Link
 
